@@ -1,0 +1,3477 @@
+﻿1
+00:00:05,873 --> 00:00:07,272
+<i>Previously on</i> The West Wing...
+
+2
+00:00:07,307 --> 00:00:10,103
+SANTOS: <i>I'm going to need
+another cop when Bartlet leaves office.</i>
+
+3
+00:00:10,127 --> 00:00:11,927
+Secretary of State.
+
+4
+00:00:11,962 --> 00:00:14,457
+SANTOS: I'm not asking
+you<i> if</i> you'd consider it, Arnie.
+
+5
+00:00:14,481 --> 00:00:15,863
+I'm asking you to do it.
+
+6
+00:00:15,899 --> 00:00:17,410
+ANDY: <i>So, Presidential pardons.</i>
+
+7
+00:00:17,434 --> 00:00:18,600
+'Tis the season, right?
+
+8
+00:00:18,635 --> 00:00:21,236
+The DOJ and the Pardon
+Attorney are reviewing applications,
+
+9
+00:00:21,272 --> 00:00:23,250
+but I don't think anybody's
+had an opportunity...
+
+10
+00:00:23,274 --> 00:00:25,323
+Is Toby on a list somewhere?
+
+11
+00:00:25,358 --> 00:00:27,036
+TOBY: <i>For a moment, I
+actually thought you came here</i>
+
+12
+00:00:27,060 --> 00:00:28,226
+'cause you gave a crap
+
+13
+00:00:28,261 --> 00:00:30,162
+and wanted to see
+how I was doing.
+
+14
+00:00:30,197 --> 00:00:31,207
+You don't need a pardon.
+
+15
+00:00:31,231 --> 00:00:33,092
+You need a frying pan
+to the side of your head.
+
+16
+00:00:33,116 --> 00:00:34,466
+I don't want a pardon.
+
+17
+00:00:34,501 --> 00:00:36,501
+Well, that simplifies
+matters. Thanks.
+
+18
+00:00:42,826 --> 00:00:45,327
+♪ ♪
+
+19
+00:01:07,184 --> 00:01:09,852
+♪ ♪
+
+20
+00:01:32,443 --> 00:01:34,509
+(<i> quiet sigh</i>)
+
+21
+00:01:36,847 --> 00:01:39,014
+NEWSCASTER (<i> on
+radio</i>): It promises to be
+
+22
+00:01:39,049 --> 00:01:41,149
+a cold and windy
+day here in the Capital
+
+23
+00:01:41,185 --> 00:01:43,151
+as the predicted
+140,000 spectators
+
+24
+00:01:43,187 --> 00:01:45,403
+will crowd the Capital Mall
+
+25
+00:01:45,439 --> 00:01:48,006
+to watch Matthew Santos
+take the oath of office
+
+26
+00:01:48,042 --> 00:01:50,408
+as the next President
+of the United States.
+
+27
+00:01:50,444 --> 00:01:53,545
+It is the end of an era, as
+President Bartlet steps down
+
+28
+00:01:53,581 --> 00:01:57,649
+after eight often tumultuous
+years in the Oval Office.
+
+29
+00:01:57,685 --> 00:01:59,963
+President Bartlet's popularity
+certainly helped Matthew Santos
+
+30
+00:01:59,987 --> 00:02:02,153
+in his tight electoral...
+
+31
+00:02:22,876 --> 00:02:25,644
+♪ ♪
+
+32
+00:02:34,638 --> 00:02:36,672
+(<i> ball bouncing on wall</i>)
+
+33
+00:02:52,222 --> 00:02:54,655
+It's going to be cold
+on that dais today.
+
+34
+00:02:54,691 --> 00:02:56,024
+Mm-hmm.
+
+35
+00:02:56,059 --> 00:02:57,892
+Who in his right mind decided
+
+36
+00:02:57,928 --> 00:03:00,545
+that January would
+be the best time of year
+
+37
+00:03:00,580 --> 00:03:04,416
+to hold an outdoor ceremony
+north of the equator?
+
+38
+00:03:04,451 --> 00:03:09,104
+Jefferson, Adams, Franklin.
+
+39
+00:03:09,139 --> 00:03:11,372
+They should have lined
+'em up and shot 'em.
+
+40
+00:03:11,408 --> 00:03:13,035
+That's what King
+George had in mind.
+
+41
+00:03:13,059 --> 00:03:14,442
+January 20?
+
+42
+00:03:14,478 --> 00:03:15,977
+They got a few things right.
+
+43
+00:03:16,012 --> 00:03:17,712
+Habeas Corpus, sure.
+
+44
+00:03:17,748 --> 00:03:19,030
+Freedom of speech.
+
+45
+00:03:19,066 --> 00:03:21,733
+Separation of
+powers... What a crock.
+
+46
+00:03:29,493 --> 00:03:31,827
+You did a lot of good, Jed.
+
+47
+00:03:35,031 --> 00:03:36,965
+A lot of good.
+
+48
+00:04:35,825 --> 00:04:37,792
+HELEN: <i>Pearls or the gold cross?</i>
+
+49
+00:04:37,827 --> 00:04:39,038
+Uh, gold cross.
+
+50
+00:04:39,062 --> 00:04:42,046
+You don't think it makes me
+look a little bit like Mary Magdalen
+
+51
+00:04:42,081 --> 00:04:43,926
+on the... Gold cross.
+
+52
+00:04:43,950 --> 00:04:45,516
+What are you wearing?
+
+53
+00:04:45,552 --> 00:04:46,518
+Long underwear.
+
+54
+00:04:46,553 --> 00:04:47,853
+It's gonna make you look bulky.
+
+55
+00:04:47,888 --> 00:04:49,649
+Lou doesn't want me
+to wear an overcoat
+
+56
+00:04:49,673 --> 00:04:51,273
+when I take the oath of office.
+
+57
+00:04:51,308 --> 00:04:53,174
+It's gonna be ten
+below out there.
+
+58
+00:04:53,209 --> 00:04:55,188
+Youth, vitality... Frostbite?
+
+59
+00:04:55,212 --> 00:04:57,289
+Never too early to start
+thinking about the reelect.
+
+60
+00:04:57,313 --> 00:04:59,281
+(<i> laughs</i>): That was
+a short honeymoon.
+
+61
+00:04:59,316 --> 00:05:00,916
+I'm going to go with the pearls.
+
+62
+00:05:00,951 --> 00:05:02,378
+(<i> knock at door, door opening</i>)
+
+63
+00:05:02,402 --> 00:05:03,579
+Mr. President-Elect,
+Mrs. Santos.
+
+64
+00:05:03,603 --> 00:05:04,869
+Good morning, Bram.
+
+65
+00:05:04,905 --> 00:05:06,071
+The National Security Advisor
+
+66
+00:05:06,106 --> 00:05:07,505
+and General McLean are here.
+
+67
+00:05:07,541 --> 00:05:09,636
+Then we should run you
+through today's schedule. Yeah.
+
+68
+00:05:09,660 --> 00:05:10,625
+I'll be right down.
+
+69
+00:05:10,660 --> 00:05:11,838
+Thanks.
+
+70
+00:05:11,862 --> 00:05:13,639
+HELEN: Do you notice how he just
+
+71
+00:05:13,663 --> 00:05:14,829
+knocks and walks right in?
+
+72
+00:05:14,865 --> 00:05:16,508
+Yeah, I know, honey. I got to...
+
+73
+00:05:16,532 --> 00:05:18,010
+I'll talk to him about it.
+
+74
+00:05:18,034 --> 00:05:20,501
+We're gonna have to
+figure out some kind of signal
+
+75
+00:05:20,536 --> 00:05:21,702
+when we want some privacy.
+
+76
+00:05:21,738 --> 00:05:22,915
+(<i> laughs</i>)
+
+77
+00:05:22,939 --> 00:05:24,906
+Like a necktie on the doorknob.
+
+78
+00:05:24,941 --> 00:05:27,441
+Hmm. I...
+
+79
+00:05:27,477 --> 00:05:29,811
+Thanks.
+
+80
+00:05:29,846 --> 00:05:31,913
+General McLean, huh?
+
+81
+00:05:31,949 --> 00:05:33,397
+Yeah.
+
+82
+00:05:33,433 --> 00:05:36,045
+I think he's going to give me
+the card with the nuclear codes.
+
+83
+00:05:36,069 --> 00:05:37,652
+It's a card? Really?
+
+84
+00:05:37,687 --> 00:05:38,948
+So I've been told.
+
+85
+00:05:38,972 --> 00:05:40,616
+Better not leave
+that laying around.
+
+86
+00:05:40,640 --> 00:05:43,574
+Oh, God.
+
+87
+00:05:43,610 --> 00:05:46,078
+Come on, it'll be an adventure.
+
+88
+00:05:46,113 --> 00:05:48,929
+That's what you told
+me when you wanted
+
+89
+00:05:48,965 --> 00:05:51,332
+to run for City Council,
+and I didn't want you to.
+
+90
+00:05:52,285 --> 00:05:54,368
+"Come on."
+
+91
+00:05:56,106 --> 00:05:58,856
+"It'll be an adventure."
+
+92
+00:06:04,581 --> 00:06:07,115
+Perfect.
+
+93
+00:06:15,876 --> 00:06:20,395
+CHARLIE: <i>National Weather Service
+just issued an ice storm warning</i>
+
+94
+00:06:20,430 --> 00:06:21,897
+for all of Southern New England.
+
+95
+00:06:21,932 --> 00:06:23,175
+Anything we can do?
+
+96
+00:06:23,199 --> 00:06:24,666
+Send 'em some salt?
+
+97
+00:06:24,701 --> 00:06:26,735
+Pardon Attorney needs
+the President's signature
+
+98
+00:06:26,770 --> 00:06:28,169
+on the clemency warrants.
+
+99
+00:06:28,204 --> 00:06:30,271
+The President decided
+on the final list of names?
+
+100
+00:06:30,306 --> 00:06:31,518
+Late last night.
+
+101
+00:06:31,542 --> 00:06:33,085
+36 pardons, 17 commutations.
+
+102
+00:06:33,109 --> 00:06:35,421
+Anybody who's going to
+set the press's hair on fire?
+
+103
+00:06:35,445 --> 00:06:36,711
+Peggy Ann Green.
+
+104
+00:06:36,746 --> 00:06:38,090
+Pot-pushin' Peggy?
+It's medicinal.
+
+105
+00:06:38,114 --> 00:06:39,958
+Yeah, and I bet
+the first joint's free.
+
+106
+00:06:39,982 --> 00:06:41,549
+Well, DEA isn't
+going to be happy.
+
+107
+00:06:41,585 --> 00:06:43,150
+Morning, sunshine.
+
+108
+00:06:43,186 --> 00:06:44,997
+Chief Usher's waiting for you,
+
+109
+00:06:45,021 --> 00:06:46,566
+and Will's already in there.
+
+110
+00:06:46,590 --> 00:06:48,190
+WILL: Big ice storm
+in New England.
+
+111
+00:06:48,225 --> 00:06:50,292
+Could be up to a
+quarter of an inch
+
+112
+00:06:50,327 --> 00:06:51,504
+of accumulation on the ground.
+
+113
+00:06:51,528 --> 00:06:52,677
+Send 'em salt.
+
+114
+00:06:52,712 --> 00:06:53,878
+And Mallory called.
+
+115
+00:06:53,913 --> 00:06:56,225
+Wants to drop by in about
+an hour. Leo's Mallory?
+
+116
+00:06:56,249 --> 00:06:58,161
+Said she has
+something she wants you
+
+117
+00:06:58,185 --> 00:06:59,595
+to pass on to the President.
+
+118
+00:06:59,619 --> 00:07:00,830
+You ready for Curtis? Sure.
+
+119
+00:07:00,854 --> 00:07:03,070
+Did you write your note
+for the flak jacket yet?
+
+120
+00:07:03,106 --> 00:07:06,074
+I don't know if I have any
+useful advice to pass on really.
+
+121
+00:07:06,109 --> 00:07:08,243
+It's tradition. You
+can't break the chain.
+
+122
+00:07:08,278 --> 00:07:09,427
+Just make it funny.
+
+123
+00:07:09,462 --> 00:07:11,579
+Have we got a pardon list?
+
+124
+00:07:11,614 --> 00:07:12,725
+Fourth Estate's
+chomping at the bit.
+
+125
+00:07:12,749 --> 00:07:13,943
+Yeah, last night.
+Anybody that's going
+
+126
+00:07:13,967 --> 00:07:16,117
+to add a little spice
+to my final briefing?
+
+127
+00:07:16,152 --> 00:07:17,752
+Peggy Ann Green.
+
+128
+00:07:17,787 --> 00:07:19,170
+Granny Pot?
+
+129
+00:07:19,206 --> 00:07:20,338
+Hot-diggity-dog.
+
+130
+00:07:20,373 --> 00:07:21,489
+A final act
+
+131
+00:07:21,525 --> 00:07:23,336
+of self-immolation
+before the hungry hordes.
+
+132
+00:07:23,360 --> 00:07:25,143
+You sound positively giddy.
+
+133
+00:07:25,178 --> 00:07:26,327
+Well, I was reaching
+
+134
+00:07:26,363 --> 00:07:27,957
+for something more
+like mild delight.
+
+135
+00:07:27,981 --> 00:07:29,375
+You enjoy being a
+human piñata on C-Span?
+
+136
+00:07:29,399 --> 00:07:32,166
+You never know what
+you've got till it's gone.
+
+137
+00:07:32,202 --> 00:07:34,485
+Mr. Chief Usher, what
+can we do for you today?
+
+138
+00:07:34,521 --> 00:07:37,189
+I thought I should take a
+moment to remind you of today's
+
+139
+00:07:37,224 --> 00:07:39,352
+schedule for the orderly
+removal of the Bartlets' things
+
+140
+00:07:39,376 --> 00:07:40,537
+from the building.
+
+141
+00:07:40,561 --> 00:07:42,927
+As soon as the President
+and First Lady leave
+
+142
+00:07:42,963 --> 00:07:45,647
+for the Capitol, 90 members
+of my staff will begin
+
+143
+00:07:45,682 --> 00:07:46,909
+packing the
+Bartlets' possessions.
+
+144
+00:07:46,933 --> 00:07:48,649
+Precisely at noon,
+
+145
+00:07:48,684 --> 00:07:50,185
+16 moving vans
+
+146
+00:07:50,220 --> 00:07:51,285
+will line up
+
+147
+00:07:51,321 --> 00:07:53,299
+at the South Portico,
+and an additional
+
+148
+00:07:53,323 --> 00:07:54,972
+30 staff members will arrive
+
+149
+00:07:55,008 --> 00:07:57,269
+at the West Wing to
+pack the Oval Office.
+
+150
+00:07:57,293 --> 00:07:59,744
+After the mass at Holy
+Trinity, you come back here
+
+151
+00:07:59,779 --> 00:08:01,813
+before heading across the
+street to the White House
+
+152
+00:08:01,849 --> 00:08:04,582
+for a 10:00 a.m. reception
+with the President, First Lady
+
+153
+00:08:04,617 --> 00:08:05,795
+and members of the JCCIC.
+
+154
+00:08:05,819 --> 00:08:07,497
+JCCIC? Joint
+Congressional Committee
+
+155
+00:08:07,521 --> 00:08:08,664
+on Inaugural Ceremonies.
+
+156
+00:08:08,688 --> 00:08:10,021
+Hence, the acronym.
+
+157
+00:08:10,057 --> 00:08:12,035
+BRAM: Following the
+reception the President-Elect
+
+158
+00:08:12,059 --> 00:08:14,876
+and the President
+will travel to the Capitol
+
+159
+00:08:14,911 --> 00:08:16,789
+for the swearing-in
+ceremonies in a single limousine.
+
+160
+00:08:16,813 --> 00:08:18,474
+Mrs. Bartlet and I got to hitch?
+
+161
+00:08:18,498 --> 00:08:20,510
+You hike up that
+skirt, you'll do fine. Oh!
+
+162
+00:08:20,534 --> 00:08:22,145
+BRAM: The President
+and the First Lady
+
+163
+00:08:22,169 --> 00:08:23,801
+will then be escorted
+to the podium
+
+164
+00:08:23,837 --> 00:08:25,915
+on the West Terrace, while
+you and Mrs. Santos are taken
+
+165
+00:08:25,939 --> 00:08:28,183
+through the Capitol to be
+introduced to the crowd.
+
+166
+00:08:28,207 --> 00:08:30,686
+Ronna? Speaker Sellner will
+deliver the opening remarks,
+
+167
+00:08:30,710 --> 00:08:32,272
+followed by the Invocation,
+followed by performances
+
+168
+00:08:32,296 --> 00:08:33,595
+by Keb' Mo' and Gloria Estefan.
+
+169
+00:08:33,630 --> 00:08:35,407
+I'm looking forward to that.
+HELEN: That's because
+
+170
+00:08:35,431 --> 00:08:37,916
+you're not gonna be wearing
+pantyhose in ten degree weather.
+
+171
+00:08:37,951 --> 00:08:40,129
+RONNA: Followed by a poetry
+reading by Jimmy Santiago Baca.
+
+172
+00:08:40,153 --> 00:08:43,371
+And then, at noon exactly,
+you take the oath of office.
+
+173
+00:08:43,406 --> 00:08:44,617
+Followed by a 21-gun salute
+
+174
+00:08:44,641 --> 00:08:46,886
+and the Marine Band
+playing "Hail To The Chief."
+
+175
+00:08:46,910 --> 00:08:49,243
+Just in case you weren't
+feeling important enough
+
+176
+00:08:49,278 --> 00:08:51,446
+after they gave you the
+nuclear launch codes.
+
+177
+00:08:51,481 --> 00:08:53,008
+RONNA: You then give
+your inaugural address.
+
+178
+00:08:53,032 --> 00:08:55,093
+ANNABETH: And after the
+proceedings, you will escort the Bartlets
+
+179
+00:08:55,117 --> 00:08:56,551
+to the limo that will take them
+
+180
+00:08:56,586 --> 00:08:58,380
+to Andrews for their trip
+home to New Hampshire.
+
+181
+00:08:58,404 --> 00:09:00,421
+Do I get to start
+governing any time in here?
+
+182
+00:09:00,457 --> 00:09:02,268
+As soon as you've
+taken the oath of office,
+
+183
+00:09:02,292 --> 00:09:03,920
+we start moving staff
+into the West Wing.
+
+184
+00:09:03,944 --> 00:09:06,227
+Do we really have to go
+to nine parties tonight?
+
+185
+00:09:06,262 --> 00:09:07,645
+DONNA: You only have to stay
+
+186
+00:09:07,680 --> 00:09:09,158
+for 20 minutes or
+so... One dance,
+
+187
+00:09:09,182 --> 00:09:11,827
+shake a few hands, then on to
+the next. What kind of dance?
+
+188
+00:09:11,851 --> 00:09:13,229
+ANNABETH: What's the
+name of your favorite song?
+
+189
+00:09:13,253 --> 00:09:14,330
+I'll sneak it to the orchestras.
+
+190
+00:09:14,354 --> 00:09:16,499
+Oh, no, I am not dancing to
+"You Can Leave Your Hat On."
+
+191
+00:09:16,523 --> 00:09:18,167
+Sir, we should really
+head to the church.
+
+192
+00:09:18,191 --> 00:09:19,324
+Let's get it on.
+
+193
+00:09:19,359 --> 00:09:20,637
+MARGARET: <i>We're supposed</i>
+
+194
+00:09:20,661 --> 00:09:22,438
+to leave our credentials
+at the front desk
+
+195
+00:09:22,462 --> 00:09:23,661
+when we exit the building,
+
+196
+00:09:23,696 --> 00:09:26,965
+and they've asked that we vacate
+our parking spaces by 2:00 p.m.
+
+197
+00:09:27,000 --> 00:09:28,399
+Not a problem, I walked today.
+
+198
+00:09:28,435 --> 00:09:29,050
+Really?
+
+199
+00:09:29,085 --> 00:09:31,402
+Yes. I often walk.
+
+200
+00:09:31,437 --> 00:09:32,119
+You do?
+
+201
+00:09:32,154 --> 00:09:33,337
+Sometimes I walk.
+
+202
+00:09:33,373 --> 00:09:36,341
+I'm going to walk a lot more
+when I get back to California.
+
+203
+00:09:36,376 --> 00:09:38,137
+Los Angeles being
+a pedestrian nirvana.
+
+204
+00:09:38,161 --> 00:09:39,956
+WILL (<i> knocking</i>): That was
+disappointing. What was?
+
+205
+00:09:39,980 --> 00:09:41,357
+You see my final briefing? Nope.
+
+206
+00:09:41,381 --> 00:09:42,664
+They didn't push back
+
+207
+00:09:42,699 --> 00:09:43,815
+on Pot-Pushing Peggy.
+
+208
+00:09:43,850 --> 00:09:44,944
+You must be heartbroken.
+
+209
+00:09:44,968 --> 00:09:46,133
+Inconsolable.
+
+210
+00:09:46,169 --> 00:09:47,846
+There's a train
+derailment in New England.
+
+211
+00:09:47,870 --> 00:09:49,365
+The ice storm? Just
+came over on CNN.
+
+212
+00:09:49,389 --> 00:09:50,404
+CHARLIE: Got a minute?
+
+213
+00:09:50,440 --> 00:09:52,190
+C.J.: Apparently,
+I'm good until 2:00,
+
+214
+00:09:52,225 --> 00:09:54,359
+and then I've got
+to move my car.
+
+215
+00:09:54,394 --> 00:09:55,537
+Pardon Attorney
+brought the warrants
+
+216
+00:09:55,561 --> 00:09:56,705
+for the President to sign.
+
+217
+00:09:56,729 --> 00:09:57,873
+He called her
+early this morning.
+
+218
+00:09:57,897 --> 00:09:59,030
+Asked her to add a name.
+
+219
+00:10:02,953 --> 00:10:04,952
+It's the last one.
+
+220
+00:10:06,222 --> 00:10:08,622
+You may get your
+wish for a final pasting
+
+221
+00:10:08,658 --> 00:10:12,093
+on national television.
+
+222
+00:10:24,140 --> 00:10:25,406
+Good morning, Mr. President.
+
+223
+00:10:25,442 --> 00:10:27,041
+Morning.
+
+224
+00:10:27,076 --> 00:10:28,538
+How are you
+feeling this morning?
+
+225
+00:10:28,562 --> 00:10:29,994
+Unemployed.
+
+226
+00:10:30,030 --> 00:10:31,657
+Lot of that going
+around the building.
+
+227
+00:10:31,681 --> 00:10:32,914
+Uh, Dr. McNally is waiting
+
+228
+00:10:32,949 --> 00:10:34,326
+to give you your
+security briefing.
+
+229
+00:10:34,350 --> 00:10:35,917
+Uh, you asked me to remind you
+
+230
+00:10:35,952 --> 00:10:37,563
+to write a note to
+the President-Elect.
+
+231
+00:10:37,587 --> 00:10:38,747
+(<i> knocking</i>) And Ms. Cregg
+
+232
+00:10:38,771 --> 00:10:40,249
+is anxious to speak with you.
+
+233
+00:10:40,273 --> 00:10:41,751
+Mr. President?
+Good morning, all.
+
+234
+00:10:41,775 --> 00:10:43,619
+You heard about
+this ice storm up in...
+
+235
+00:10:43,643 --> 00:10:44,909
+New England, yeah.
+
+236
+00:10:44,944 --> 00:10:46,756
+Unfortunately, the storm
+caused a train derailment.
+
+237
+00:10:46,780 --> 00:10:47,923
+On Amtrak's regional route
+
+238
+00:10:47,947 --> 00:10:49,997
+between Portland,
+Maine, and Boston.
+
+239
+00:10:50,032 --> 00:10:51,165
+Any fatalities?
+
+240
+00:10:51,200 --> 00:10:52,600
+13 injuries so far.
+
+241
+00:10:52,636 --> 00:10:54,146
+The worst is a badly broken leg.
+
+242
+00:10:54,170 --> 00:10:55,531
+But with the extreme weather,
+
+243
+00:10:55,555 --> 00:10:57,132
+we're going to need an
+emergency rescue operation
+
+244
+00:10:57,156 --> 00:10:58,500
+before everybody
+freezes to death out there.
+
+245
+00:10:58,524 --> 00:11:00,208
+Sounds like a state matter.
+
+246
+00:11:00,243 --> 00:11:01,653
+Normally, yes, but it's between
+
+247
+00:11:01,677 --> 00:11:03,873
+the Exeter and Haverhill stops.
+
+248
+00:11:03,897 --> 00:11:06,025
+Also known as the New
+Hampshire-Massachusetts border.
+
+249
+00:11:06,049 --> 00:11:07,526
+BARTLET: The Governors
+are fighting over jurisdiction.
+
+250
+00:11:07,550 --> 00:11:08,516
+KATE: Governor Sidley says
+
+251
+00:11:08,551 --> 00:11:09,895
+it's New Hampshire's problem,
+
+252
+00:11:09,919 --> 00:11:12,097
+Governor Wilkins says
+it's a Massachusetts issue.
+
+253
+00:11:12,121 --> 00:11:13,549
+BARTLET: Debbie, get the
+governor on the phone, please.
+
+254
+00:11:13,573 --> 00:11:14,783
+Which governor,
+sir? Whichever one
+
+255
+00:11:14,807 --> 00:11:16,174
+you can get on the line first!
+
+256
+00:11:16,209 --> 00:11:17,937
+WILL: Should we consider
+nationalizing the Guard, sir,
+
+257
+00:11:17,961 --> 00:11:19,143
+send in units?
+
+258
+00:11:19,179 --> 00:11:20,272
+KATE: Don't you
+think that's something
+
+259
+00:11:20,296 --> 00:11:21,391
+a president might want to avoid
+
+260
+00:11:21,415 --> 00:11:22,558
+in his final hours in office?
+
+261
+00:11:22,582 --> 00:11:24,665
+So we should survey
+the accident site
+
+262
+00:11:24,701 --> 00:11:25,778
+to resolve the border dispute?
+
+263
+00:11:25,802 --> 00:11:27,179
+What are we supposed to do,
+
+264
+00:11:27,203 --> 00:11:28,380
+send in a team of cartographers?
+
+265
+00:11:28,404 --> 00:11:29,581
+Both governors
+are on the line, sir.
+
+266
+00:11:29,605 --> 00:11:31,022
+Thank you.
+
+267
+00:11:31,057 --> 00:11:32,356
+Pick a number, two or four.
+
+268
+00:11:32,392 --> 00:11:34,232
+Two. Four.
+
+269
+00:11:35,128 --> 00:11:37,461
+Governor, call up a Guard unit
+
+270
+00:11:37,496 --> 00:11:39,097
+and get them to this crash site.
+
+271
+00:11:39,132 --> 00:11:42,033
+No one gives a damn
+where the accident is.
+
+272
+00:11:42,068 --> 00:11:43,551
+Be that as it may, sir,
+
+273
+00:11:43,586 --> 00:11:46,287
+you are about to
+become a star player
+
+274
+00:11:46,322 --> 00:11:48,372
+in my soon-to-be-written
+autobiography.
+
+275
+00:11:48,408 --> 00:11:49,858
+It's the right decision.
+
+276
+00:11:49,893 --> 00:11:51,692
+Thank you.
+
+277
+00:11:52,762 --> 00:11:55,797
+Thank you, sir. Thank you, sir.
+
+278
+00:11:56,849 --> 00:11:59,934
+(<i> sighs</i>)
+
+279
+00:12:03,340 --> 00:12:05,173
+You're hovering, Claudia Jean.
+
+280
+00:12:05,208 --> 00:12:06,841
+Yes, sir.
+
+281
+00:12:06,877 --> 00:12:08,142
+What do you got there?
+
+282
+00:12:08,177 --> 00:12:11,945
+The pardons and clemency
+warrants for your signature.
+
+283
+00:12:14,000 --> 00:12:15,667
+I haven't decided to do it.
+
+284
+00:12:15,702 --> 00:12:18,269
+No?
+
+285
+00:12:20,290 --> 00:12:21,805
+Do you have an opinion?
+
+286
+00:12:21,841 --> 00:12:26,411
+I'm sure you'll do
+whatever you think is best.
+
+287
+00:12:26,446 --> 00:12:29,163
+Toby's is the last
+one in the folder.
+
+288
+00:12:29,199 --> 00:12:31,349
+Anything else? No, sir.
+
+289
+00:12:31,384 --> 00:12:34,285
+Thank you, Mr. President.
+
+290
+00:12:36,690 --> 00:12:39,469
+DEBBIE: Governor
+Wilkins is still holding on two.
+
+291
+00:12:39,493 --> 00:12:41,992
+Tell him I'll be right there.
+
+292
+00:12:51,671 --> 00:12:53,048
+C.J.: <i>How is the baby?</i>
+
+293
+00:12:53,072 --> 00:12:54,989
+Wonderful, noisy.
+
+294
+00:12:55,025 --> 00:12:56,802
+All boy. (<i> chuckles</i>)
+
+295
+00:12:56,826 --> 00:12:58,638
+Sam's coming back
+to work for Josh.
+
+296
+00:12:58,662 --> 00:13:00,728
+Wow, that's great.
+
+297
+00:13:00,764 --> 00:13:02,207
+How is he? Engaged.
+
+298
+00:13:02,231 --> 00:13:03,397
+Good for him.
+
+299
+00:13:03,432 --> 00:13:04,782
+Say hello for me, would you?
+
+300
+00:13:04,817 --> 00:13:06,545
+He's in town; you
+can tell him yourself.
+
+301
+00:13:06,569 --> 00:13:08,436
+Hmm.
+
+302
+00:13:09,489 --> 00:13:13,925
+I've been going
+through Dad's stuff...
+
+303
+00:13:13,960 --> 00:13:16,126
+and I found something
+I thought the President
+
+304
+00:13:16,162 --> 00:13:17,494
+might want to have back.
+
+305
+00:13:17,530 --> 00:13:19,458
+You don't want to
+give it to him yourself?
+
+306
+00:13:19,482 --> 00:13:21,015
+It's a little sentimental.
+
+307
+00:13:21,051 --> 00:13:22,366
+I'll make sure he gets it.
+
+308
+00:13:25,889 --> 00:13:28,239
+(<i> softly</i>): Thanks.
+
+309
+00:13:30,260 --> 00:13:32,627
+Dad loved every
+moment he spent here.
+
+310
+00:13:39,469 --> 00:13:41,903
+DEBBIE: <i>Mrs. Bartlet
+called, asked me</i>
+
+311
+00:13:41,938 --> 00:13:43,538
+to remind you that the Santoses
+
+312
+00:13:43,573 --> 00:13:48,442
+are expected in the residence
+in less than 55 minutes.
+
+313
+00:13:48,477 --> 00:13:51,311
+She also asked me to
+mention that you need
+
+314
+00:13:51,347 --> 00:13:54,832
+to leave time enough to
+change <i>before</i> they arrive.
+
+315
+00:13:54,867 --> 00:13:57,685
+Mrs. Bartlet doesn't want
+me wearing penny loafers
+
+316
+00:13:57,720 --> 00:13:59,187
+and a cardigan to the Inaugural?
+
+317
+00:13:59,222 --> 00:14:00,888
+That's about the
+gist of it, yes, sir.
+
+318
+00:14:00,924 --> 00:14:04,808
+Did you write that note to
+President-Elect Santos yet?
+
+319
+00:14:04,844 --> 00:14:07,428
+Saving that for last.
+
+320
+00:14:08,464 --> 00:14:10,364
+All done.
+
+321
+00:14:10,399 --> 00:14:12,667
+What about that one?
+
+322
+00:14:12,702 --> 00:14:14,835
+I'm still on the fence.
+
+323
+00:14:14,871 --> 00:14:17,204
+You do realize that you
+turn into a pumpkin at noon?
+
+324
+00:14:17,239 --> 00:14:18,283
+I'm going to take
+
+325
+00:14:18,307 --> 00:14:20,808
+one final stroll
+around the joint.
+
+326
+00:14:20,844 --> 00:14:22,838
+Make sure nobody's
+making off with the cutlery.
+
+327
+00:14:22,862 --> 00:14:24,212
+53 minutes.
+
+328
+00:14:25,281 --> 00:14:26,514
+Did he sign it?
+
+329
+00:14:26,549 --> 00:14:27,749
+C.J.: Not yet.
+
+330
+00:14:27,784 --> 00:14:29,061
+Is he going to sign it?
+
+331
+00:14:29,085 --> 00:14:30,785
+I have no idea.
+
+332
+00:14:30,820 --> 00:14:32,119
+You think he should sign it?
+
+333
+00:14:32,154 --> 00:14:33,499
+I think the founding fathers
+
+334
+00:14:33,523 --> 00:14:35,334
+left it to the
+President to decide
+
+335
+00:14:35,358 --> 00:14:37,152
+who should and
+shouldn't get clemency.
+
+336
+00:14:37,176 --> 00:14:38,987
+National Guard on the
+way to the train accident?
+
+337
+00:14:39,011 --> 00:14:41,073
+Yep. You know we
+probably witnessed
+
+338
+00:14:41,097 --> 00:14:43,341
+the final act of governance
+of the Bartlet Administration.
+
+339
+00:14:43,365 --> 00:14:44,498
+The President serving
+
+340
+00:14:44,533 --> 00:14:47,018
+as national schoolmarm
+on a snow day.
+
+341
+00:14:47,053 --> 00:14:48,318
+Nice job on Granny Ganja.
+
+342
+00:14:48,354 --> 00:14:49,698
+I would've thought you
+would have gotten a little more
+
+343
+00:14:49,722 --> 00:14:50,832
+of a rise out of them on that.
+
+344
+00:14:50,856 --> 00:14:52,206
+Yeah, me, too.
+
+345
+00:14:52,242 --> 00:14:53,975
+You do the flak jacket note yet?
+
+346
+00:14:54,010 --> 00:14:55,070
+Little writer's block.
+
+347
+00:14:55,094 --> 00:14:56,443
+Just make it funny.
+
+348
+00:14:56,479 --> 00:14:58,112
+Right.
+
+349
+00:14:58,147 --> 00:14:59,308
+Let me know if he signs it.
+
+350
+00:14:59,332 --> 00:15:01,665
+Signs what?
+
+351
+00:15:01,701 --> 00:15:02,784
+You're a little early.
+
+352
+00:15:02,819 --> 00:15:05,352
+The Santoses went to church,
+
+353
+00:15:05,387 --> 00:15:08,039
+so I got an hour to kill before
+heading over to the Capitol.
+
+354
+00:15:08,074 --> 00:15:10,574
+I thought I'd drop by,
+and make one last stab
+
+355
+00:15:10,610 --> 00:15:12,076
+at getting you to stay on.
+
+356
+00:15:14,113 --> 00:15:17,815
+9:30 tomorrow morning
+Dulles to LAX, non-stop,
+
+357
+00:15:17,850 --> 00:15:20,028
+glass of bad merlot,
+three bags of peanuts,
+
+358
+00:15:20,052 --> 00:15:21,096
+and an Ambien.
+
+359
+00:15:21,120 --> 00:15:23,187
+But thanks for asking.
+
+360
+00:15:23,223 --> 00:15:24,922
+Danny?
+
+361
+00:15:24,957 --> 00:15:27,558
+Waiting at LAX with
+a tub of sunscreen.
+
+362
+00:15:27,594 --> 00:15:30,678
+So...
+
+363
+00:15:30,713 --> 00:15:31,991
+Baker for VP.
+
+364
+00:15:32,015 --> 00:15:34,009
+You're going to have
+quite a battle up on the hill.
+
+365
+00:15:34,033 --> 00:15:36,383
+Yeah, we're hoping
+Vinick at state
+
+366
+00:15:36,419 --> 00:15:38,402
+helps grease the skids a little.
+
+367
+00:15:40,890 --> 00:15:43,775
+You ever stop thinking
+of this as Leo's office?
+
+368
+00:15:44,794 --> 00:15:47,528
+No.
+
+369
+00:15:47,563 --> 00:15:50,097
+Oh, hey, I've got
+something for you.
+
+370
+00:15:53,269 --> 00:15:55,586
+"WWLD"?
+
+371
+00:15:55,621 --> 00:15:57,905
+"What Would Leo Do."
+
+372
+00:16:02,795 --> 00:16:04,328
+You're going to do great, Josh.
+
+373
+00:16:04,363 --> 00:16:05,713
+You don't need me.
+
+374
+00:16:10,252 --> 00:16:12,186
+Morning, Carol. Mr. President.
+
+375
+00:16:12,221 --> 00:16:13,632
+Thanks you for
+all your hard work.
+
+376
+00:16:13,656 --> 00:16:14,866
+Couldn't have
+done it without you.
+
+377
+00:16:14,890 --> 00:16:17,224
+Thank you, Mr. President.
+
+378
+00:16:17,259 --> 00:16:19,527
+Morning, Ray, thank you.
+
+379
+00:16:19,562 --> 00:16:21,094
+Hey, Carla.
+
+380
+00:16:21,130 --> 00:16:22,130
+Mr. President.
+
+381
+00:16:22,164 --> 00:16:23,631
+Larry. Yes.
+
+382
+00:16:23,666 --> 00:16:25,511
+Going to finally get some
+time with the kids now, I hope.
+
+383
+00:16:25,535 --> 00:16:26,679
+Oh, absolutely, Mr. President.
+
+384
+00:16:26,703 --> 00:16:27,746
+Ed, thanks for your help.
+
+385
+00:16:27,770 --> 00:16:29,804
+No, sir, thank you.
+
+386
+00:16:32,208 --> 00:16:33,452
+Nancy, how is your mother doing?
+
+387
+00:16:33,476 --> 00:16:34,987
+She's fine now, Mr. President.
+
+388
+00:16:35,011 --> 00:16:37,089
+Tell her I'm looking forward
+to seeing her again soon,
+
+389
+00:16:37,113 --> 00:16:38,290
+would you, please?
+Absolutely, sir.
+
+390
+00:16:38,314 --> 00:16:40,915
+Thank you.
+
+391
+00:16:44,421 --> 00:16:45,853
+I got to go.
+
+392
+00:16:45,888 --> 00:16:47,466
+Do you need something,
+sir? Heard a rumor
+
+393
+00:16:47,490 --> 00:16:50,174
+about you and the
+Oregon 4th... Any truth to it?
+
+394
+00:16:50,209 --> 00:16:51,587
+D-triple-C thinks it'll
+be a pretty tough race.
+
+395
+00:16:51,611 --> 00:16:52,993
+Give me a call.
+
+396
+00:16:53,029 --> 00:16:55,307
+I'll come up there and help
+you pound in some lawn signs.
+
+397
+00:16:55,331 --> 00:16:56,630
+I'll have a mallet ready, sir.
+
+398
+00:16:57,683 --> 00:17:00,785
+Excuse me, will you?
+
+399
+00:17:03,389 --> 00:17:04,655
+Morning, Charlie.
+
+400
+00:17:04,690 --> 00:17:06,490
+Mr. President.
+
+401
+00:17:06,525 --> 00:17:08,570
+Have you made a
+decision about your future?
+
+402
+00:17:08,594 --> 00:17:09,671
+Georgetown Law.
+
+403
+00:17:09,695 --> 00:17:10,978
+You got the early acceptance?
+
+404
+00:17:11,014 --> 00:17:13,208
+I think the letter from
+you may have helped
+
+405
+00:17:13,232 --> 00:17:15,265
+a little, sir.
+
+406
+00:17:15,301 --> 00:17:16,667
+I don't need this anymore.
+
+407
+00:17:16,702 --> 00:17:19,703
+I thought you maybe you
+could get some use out of it.
+
+408
+00:17:22,375 --> 00:17:25,960
+I was trying to remember
+if my father had given it
+
+409
+00:17:25,995 --> 00:17:29,280
+to me when I was in the
+tenth grade or the 11th.
+
+410
+00:17:30,299 --> 00:17:31,999
+I considered getting you a tie
+
+411
+00:17:32,034 --> 00:17:35,853
+with the scales
+of justice on it.
+
+412
+00:17:35,888 --> 00:17:38,889
+Figured you'd use this more.
+
+413
+00:17:40,759 --> 00:17:44,361
+Thank you, Mr. President.
+
+414
+00:17:44,397 --> 00:17:46,364
+Thank you, Charlie.
+
+415
+00:17:57,827 --> 00:18:00,038
+Homily seemed a little pointed.
+
+416
+00:18:00,062 --> 00:18:01,212
+Hmm?
+
+417
+00:18:01,247 --> 00:18:02,641
+The Cardinal, you don't think
+
+418
+00:18:02,665 --> 00:18:05,483
+he was pushing the "swords
+into plowshares" stuff a little hard?
+
+419
+00:18:05,518 --> 00:18:08,636
+Well, he's right, this
+Kazakhstan thing is a mess.
+
+420
+00:18:08,671 --> 00:18:10,805
+We got thousands of our soldiers
+
+421
+00:18:10,840 --> 00:18:12,373
+in the middle of Central Asia,
+
+422
+00:18:12,408 --> 00:18:14,508
+and we haven't a
+clue as to what's next.
+
+423
+00:18:14,543 --> 00:18:16,244
+Nine Inaugural Balls?
+
+424
+00:18:16,279 --> 00:18:17,411
+You think I'm supposed
+
+425
+00:18:17,447 --> 00:18:18,829
+to wear nine gowns?
+
+426
+00:18:18,865 --> 00:18:20,147
+Do you have nine gowns?
+
+427
+00:18:20,183 --> 00:18:22,533
+No.
+
+428
+00:18:22,568 --> 00:18:23,688
+Well, then probably not.
+
+429
+00:18:25,605 --> 00:18:28,022
+DEBBIE: <i>19 minutes</i>
+
+430
+00:18:28,057 --> 00:18:29,457
+and counting, sir.
+
+431
+00:18:29,492 --> 00:18:30,891
+Almost done.
+
+432
+00:18:58,821 --> 00:19:02,205
+Well... that's it.
+
+433
+00:19:02,241 --> 00:19:05,342
+What about that
+final pardon warrant?
+
+434
+00:19:05,377 --> 00:19:06,455
+There's still time.
+
+435
+00:19:06,479 --> 00:19:08,211
+Not much.
+
+436
+00:19:08,247 --> 00:19:10,080
+Two hours and 19 minutes.
+
+437
+00:19:10,116 --> 00:19:11,882
+Two hours and
+18. (<i> knock at door</i>)
+
+438
+00:19:11,918 --> 00:19:13,545
+C.J.: Mr. President?
+
+439
+00:19:13,569 --> 00:19:15,180
+Aren't you supposed
+to be in the residence
+
+440
+00:19:15,204 --> 00:19:16,315
+getting ready for
+the Santoses' arrival?
+
+441
+00:19:16,339 --> 00:19:17,988
+Yes. Just leaving.
+
+442
+00:19:18,023 --> 00:19:19,457
+So he keeps saying.
+
+443
+00:19:19,492 --> 00:19:22,493
+Mallory came by this morning
+and asked me to give you this.
+
+444
+00:19:22,528 --> 00:19:24,729
+I was going to ask
+Debbie to send it with you
+
+445
+00:19:24,764 --> 00:19:25,896
+on the plane, but...
+
+446
+00:19:25,931 --> 00:19:27,759
+Why didn't she stop
+in and say hello?
+
+447
+00:19:27,783 --> 00:19:29,761
+I don't think she wanted to
+bother you on your last day.
+
+448
+00:19:29,785 --> 00:19:31,585
+DEBBIE: 16 minutes, sir.
+
+449
+00:19:31,620 --> 00:19:32,798
+I'm a fast dresser.
+
+450
+00:19:32,822 --> 00:19:34,338
+Not that fast.
+
+451
+00:19:34,373 --> 00:19:37,008
+Why don't I put this in
+your briefcase for the plane.
+
+452
+00:19:40,179 --> 00:19:42,880
+Your letter to
+President-Elect Santos?
+
+453
+00:19:42,915 --> 00:19:44,649
+Mm-hmm.
+
+454
+00:19:55,194 --> 00:19:57,861
+It's been a pleasure,
+Claudia Jean.
+
+455
+00:19:57,896 --> 00:20:01,415
+The pleasure has
+been all mine, sir.
+
+456
+00:20:16,349 --> 00:20:17,648
+(<i> paper sliding</i>)
+
+457
+00:20:17,683 --> 00:20:19,650
+(<i> sighs</i>)
+
+458
+00:20:28,477 --> 00:20:31,678
+(<i> sighs</i>)
+
+459
+00:21:00,726 --> 00:21:05,529
+♪ ♪
+
+460
+00:21:21,447 --> 00:21:22,691
+SANTOS: Thank
+you. Thanks so much.
+
+461
+00:21:22,715 --> 00:21:26,100
+HELEN: Thank you.
+Thank you very much.
+
+462
+00:21:26,135 --> 00:21:27,267
+Good-bye, Mr. President.
+
+463
+00:21:27,302 --> 00:21:28,847
+Thank you so much for your help.
+
+464
+00:21:28,871 --> 00:21:30,511
+Good-bye. Thank you.
+
+465
+00:21:39,815 --> 00:21:41,649
+MAN: Good luck, sir.
+
+466
+00:21:44,987 --> 00:21:47,287
+You okay?
+
+467
+00:21:47,322 --> 00:21:50,123
+Sure.
+
+468
+00:21:50,159 --> 00:21:51,970
+We could make a
+run for it you know.
+
+469
+00:21:51,994 --> 00:21:53,271
+Catch the first
+plane out of Dulles.
+
+470
+00:21:53,295 --> 00:21:54,628
+Head down to Panama.
+
+471
+00:21:54,664 --> 00:21:57,197
+I hear Uruguay's nice.
+Southern Hemisphere.
+
+472
+00:21:57,233 --> 00:21:58,560
+It's summer down
+there. Cheaper housing.
+
+473
+00:21:58,584 --> 00:21:59,828
+You speak the language.
+
+474
+00:21:59,852 --> 00:22:00,968
+What about the kids?
+
+475
+00:22:01,003 --> 00:22:02,719
+Send them a postcard.
+
+476
+00:22:02,754 --> 00:22:04,271
+They'll be pissed.
+
+477
+00:22:12,180 --> 00:22:13,392
+BARTLET: <i>I left enough time.</i>
+
+478
+00:22:13,416 --> 00:22:14,381
+ABBEY: <i>No, you didn't.</i>
+
+479
+00:22:14,416 --> 00:22:16,378
+I was ready before
+they got here, wasn't I?
+
+480
+00:22:16,402 --> 00:22:17,746
+That's because
+they're running late.
+
+481
+00:22:17,770 --> 00:22:19,414
+When was the last time someone
+
+482
+00:22:19,438 --> 00:22:21,182
+<i>actually</i> was late to meet us?
+
+483
+00:22:21,206 --> 00:22:23,007
+Eight years ago to the day.
+
+484
+00:22:23,042 --> 00:22:25,509
+Get used to it, it's going
+to happen a lot more.
+
+485
+00:22:25,545 --> 00:22:27,856
+Oh, the girls are going to
+be waiting for us when we get
+
+486
+00:22:27,880 --> 00:22:29,079
+to the farm this evening.
+
+487
+00:22:29,115 --> 00:22:30,225
+It's supposed to be a surprise,
+
+488
+00:22:30,249 --> 00:22:31,315
+so try and act like it.
+
+489
+00:22:31,350 --> 00:22:32,483
+Tonight?
+
+490
+00:22:32,518 --> 00:22:34,329
+I was looking forward
+to some peace and quiet.
+
+491
+00:22:34,353 --> 00:22:36,765
+I know, that's why
+I'm warning you.
+
+492
+00:22:36,789 --> 00:22:40,240
+I don't want you to look
+stricken when you see them.
+
+493
+00:22:40,276 --> 00:22:42,020
+Does it have to be tonight?
+
+494
+00:22:42,044 --> 00:22:43,576
+They just wanted to
+show you their love
+
+495
+00:22:43,612 --> 00:22:46,513
+and support in
+your hour of need.
+
+496
+00:22:46,548 --> 00:22:48,515
+They're afraid you might
+have some re-entry issues
+
+497
+00:22:48,550 --> 00:22:50,583
+in returning to live
+amongst us mere mortals.
+
+498
+00:22:50,619 --> 00:22:53,187
+Have I been so out of touch?
+
+499
+00:22:53,222 --> 00:22:55,200
+When was the last time
+you used a telephone?
+
+500
+00:22:55,224 --> 00:22:56,467
+Or went to a bank?
+
+501
+00:22:56,491 --> 00:22:57,535
+Or drove a car?
+
+502
+00:22:57,559 --> 00:22:59,126
+It's just like riding a bike.
+
+503
+00:22:59,161 --> 00:23:00,694
+Only more horsepower, right?
+
+504
+00:23:00,729 --> 00:23:02,591
+GINGER: Excuse
+me, Mr. President?
+
+505
+00:23:02,615 --> 00:23:04,064
+The Santoses have arrived.
+
+506
+00:23:04,100 --> 00:23:07,045
+They're in the Blue
+Room. Thank you.
+
+507
+00:23:07,069 --> 00:23:08,069
+Abbey?
+
+508
+00:23:24,703 --> 00:23:26,704
+(<i> sirens wailing</i>)
+
+509
+00:23:31,110 --> 00:23:34,005
+SANTOS: <i>Nine Inaugural Balls.
+How's that supposed to work?</i>
+
+510
+00:23:34,029 --> 00:23:35,791
+You'll want to skip
+the champagne
+
+511
+00:23:35,815 --> 00:23:37,280
+when they do the toast.
+
+512
+00:23:39,284 --> 00:23:41,919
+I'm afraid I made a bit
+of a mess this morning.
+
+513
+00:23:41,954 --> 00:23:44,099
+It may eat into your news cycle.
+
+514
+00:23:44,123 --> 00:23:45,155
+Oh?
+
+515
+00:23:45,190 --> 00:23:46,757
+The pardons.
+
+516
+00:23:46,793 --> 00:23:48,558
+Granny Pot, I heard.
+
+517
+00:23:48,594 --> 00:23:49,874
+And a few others.
+
+518
+00:23:52,731 --> 00:23:54,448
+How's the speech?
+
+519
+00:23:54,483 --> 00:23:55,982
+It's okay.
+
+520
+00:23:56,018 --> 00:23:59,503
+A couple of good lines.
+
+521
+00:23:59,538 --> 00:24:02,640
+There's no "Ask not what your
+country can do for you," but...
+
+522
+00:24:02,675 --> 00:24:05,676
+JFK really screwed us
+with that one, didn't he?
+
+523
+00:24:07,647 --> 00:24:10,380
+Have you chosen a biblical
+quotation for the oath?
+
+524
+00:24:10,416 --> 00:24:12,282
+Kings 3:9-11.
+
+525
+00:24:12,317 --> 00:24:15,803
+"Grant thy servant
+an understanding heart
+
+526
+00:24:15,838 --> 00:24:17,632
+to judge thy people..."?
+That's the one.
+
+527
+00:24:17,656 --> 00:24:18,805
+Good choice.
+
+528
+00:24:22,027 --> 00:24:24,661
+You know what I'm
+going to miss the most?
+
+529
+00:24:24,696 --> 00:24:27,197
+Hmm? The Marine Corps Band.
+
+530
+00:24:28,267 --> 00:24:30,834
+Those guys can really play.
+
+531
+00:24:30,869 --> 00:24:33,337
+Ask them to do "Semper Fidelis."
+
+532
+00:24:33,372 --> 00:24:35,372
+They'll knock your socks off.
+
+533
+00:24:40,245 --> 00:24:42,213
+(<i> sirens wailing</i>)
+
+534
+00:24:55,177 --> 00:24:57,978
+(<i> band playing distantly</i>)
+
+535
+00:24:59,748 --> 00:25:00,713
+KILMER: Mr. President.
+
+536
+00:25:00,749 --> 00:25:02,366
+Senator Wirth will escort
+
+537
+00:25:02,401 --> 00:25:04,318
+you to the podium.
+
+538
+00:25:04,353 --> 00:25:05,463
+This way, Mr. President-Elect.
+
+539
+00:25:05,487 --> 00:25:07,532
+I guess this is where
+our paths diverge.
+
+540
+00:25:07,556 --> 00:25:09,200
+You sure you're ready to retire?
+
+541
+00:25:09,224 --> 00:25:11,325
+See you on the podium.
+
+542
+00:25:12,527 --> 00:25:14,527
+Mr. President-Elect.
+
+543
+00:25:17,216 --> 00:25:18,527
+NEWSCASTER:
+<i>Capitol Police estimate</i>
+
+544
+00:25:18,551 --> 00:25:22,703
+today's crowd at over 140,000,
+with an additional 800,000
+
+545
+00:25:22,738 --> 00:25:24,716
+expected to line the
+parade route later.
+
+546
+00:25:24,740 --> 00:25:28,508
+Incoming Secretary of
+State Arnold Vinick is here.
+
+547
+00:25:28,543 --> 00:25:31,011
+Senator Vinick surprised
+many Republicans...
+
+548
+00:25:31,046 --> 00:25:32,758
+Surprised everyone
+across the board, really...
+
+549
+00:25:32,782 --> 00:25:35,516
+By accepting a position
+in Matt Santos' Cabinet.
+
+550
+00:25:35,551 --> 00:25:37,434
+Perhaps eschewing
+his own chances
+
+551
+00:25:37,469 --> 00:25:39,603
+to run again in four years.
+
+552
+00:25:42,241 --> 00:25:44,385
+It's going to be cold out there.
+
+553
+00:25:44,409 --> 00:25:46,610
+Yeah.
+
+554
+00:25:46,645 --> 00:25:49,213
+I hope brevity is in order.
+
+555
+00:25:49,248 --> 00:25:52,382
+I cut the speech down to
+about 80 pages in the car.
+
+556
+00:25:52,417 --> 00:25:55,285
+The Gettysburg Address
+was what... four minutes long?
+
+557
+00:25:55,320 --> 00:25:57,387
+A lot of run-on
+sentences though.
+
+558
+00:25:57,422 --> 00:25:59,167
+Didn't a two hour
+inaugural address
+
+559
+00:25:59,191 --> 00:26:00,657
+kill a President once?
+
+560
+00:26:00,692 --> 00:26:01,759
+William Henry Harrison,
+
+561
+00:26:01,794 --> 00:26:04,728
+but, you know, he was 68.
+
+562
+00:26:04,764 --> 00:26:06,463
+He refused to wear a coat.
+
+563
+00:26:06,498 --> 00:26:08,243
+You refused to wear a coat.
+
+564
+00:26:08,267 --> 00:26:09,767
+But I'm wearing long underwear.
+
+565
+00:26:09,802 --> 00:26:10,768
+Oh.
+
+566
+00:26:10,803 --> 00:26:12,819
+(<i> honor guard calls order</i>)
+
+567
+00:26:13,856 --> 00:26:16,240
+ANNOUNCER: <i>The
+dignitaries on the platform</i>
+
+568
+00:26:16,275 --> 00:26:17,708
+have taken their positions.
+
+569
+00:26:18,694 --> 00:26:20,861
+And now here are
+President Bartlet
+
+570
+00:26:20,896 --> 00:26:23,397
+and the First Lady making
+their way to their seats
+
+571
+00:26:23,432 --> 00:26:24,915
+on the podium.
+
+572
+00:26:24,951 --> 00:26:26,695
+After eight years
+in the White House,
+
+573
+00:26:26,719 --> 00:26:28,764
+they are officially
+handing over the reins
+
+574
+00:26:28,788 --> 00:26:33,039
+to the Santoses in
+a few short minutes.
+
+575
+00:26:35,510 --> 00:26:37,627
+Thought by many to be...
+
+576
+00:26:37,663 --> 00:26:39,241
+C.J., the President's
+office just sent this over.
+
+577
+00:26:39,265 --> 00:26:40,213
+Says it needs to go
+
+578
+00:26:40,249 --> 00:26:42,227
+to the Pardon
+Attorney immediately.
+
+579
+00:26:42,251 --> 00:26:43,978
+And critics with his
+willingness to use
+
+580
+00:26:44,002 --> 00:26:46,253
+American force abroad
+
+581
+00:26:46,288 --> 00:26:49,790
+and his aggressive pursuit
+for peace on the world stage.
+
+582
+00:26:54,346 --> 00:26:56,346
+(<i> band playing, crowd cheering</i>)
+
+583
+00:27:01,487 --> 00:27:04,121
+Man, I hope Janet
+Spragens has her TV on.
+
+584
+00:27:04,156 --> 00:27:06,023
+Who? Senior year,
+
+585
+00:27:06,058 --> 00:27:07,803
+she beat me out for
+the last varsity spot
+
+586
+00:27:07,827 --> 00:27:09,793
+on the swim team. Guess what?
+
+587
+00:27:09,829 --> 00:27:11,829
+What? You win.
+
+588
+00:27:19,505 --> 00:27:20,916
+Though she did get Don Vogel
+
+589
+00:27:20,940 --> 00:27:23,707
+to take her to the
+prom instead of me.
+
+590
+00:27:23,743 --> 00:27:25,142
+We'll call it even then.
+
+591
+00:27:25,177 --> 00:27:27,155
+Nah, I'm pretty sure
+Janet had to put out
+
+592
+00:27:27,179 --> 00:27:28,946
+so Don would take her.
+
+593
+00:27:36,022 --> 00:27:40,590
+ANNOUNCER: Ladies and
+gentlemen, Mrs. Helen Santos.
+
+594
+00:27:40,626 --> 00:27:42,960
+No turning back now.
+
+595
+00:27:42,995 --> 00:27:45,362
+(<i> distant applause and cheers</i>)
+
+596
+00:27:47,767 --> 00:27:49,667
+Ladies and gentlemen,
+
+597
+00:27:49,702 --> 00:27:53,070
+President-Elect of
+the United States
+
+598
+00:27:53,105 --> 00:27:55,955
+Matthew Vincente Santos.
+
+599
+00:27:55,991 --> 00:27:59,059
+(<i> applause and cheers</i>)
+
+600
+00:28:10,772 --> 00:28:14,191
+CARDINAL DOHERTY: Oh, Lord,
+we come together on this historic
+
+601
+00:28:14,226 --> 00:28:17,895
+and solemn occasion to
+inaugurate a President.
+
+602
+00:28:17,930 --> 00:28:21,915
+We pray, oh Lord, for
+President-Elect Santos
+
+603
+00:28:21,951 --> 00:28:23,951
+to whom you have
+entrusted leadership
+
+604
+00:28:23,986 --> 00:28:26,369
+of this great nation.
+
+605
+00:28:26,405 --> 00:28:29,990
+Give our new President
+and all who advise him
+
+606
+00:28:30,025 --> 00:28:31,925
+calmness in the face of storms,
+
+607
+00:28:31,960 --> 00:28:35,345
+encouragement in
+the face of frustrations
+
+608
+00:28:35,381 --> 00:28:38,748
+and humility in
+the face of triumph.
+
+609
+00:28:38,784 --> 00:28:42,702
+We pray that this good
+and generous country
+
+610
+00:28:42,737 --> 00:28:46,139
+may be a blessing to
+the nations of the world.
+
+611
+00:28:46,175 --> 00:28:49,559
+And fulfill the hopes
+of our founding fathers.
+
+612
+00:28:49,594 --> 00:28:53,396
+This we ask in your
+most holy name. Amen.
+
+613
+00:28:53,432 --> 00:28:55,398
+(<i> applause</i>)
+
+614
+00:28:55,434 --> 00:28:59,119
+(<i> guitar playing
+"America the Beautiful"</i>)
+
+615
+00:29:26,198 --> 00:29:32,469
+♪ O beautiful for
+spacious skies ♪
+
+616
+00:29:32,504 --> 00:29:38,275
+♪ For amber waves of grain ♪
+
+617
+00:29:38,310 --> 00:29:43,930
+♪ For purple
+mountain majesties ♪
+
+618
+00:29:43,965 --> 00:29:50,603
+♪ Above the fruited plain ♪
+
+619
+00:29:50,638 --> 00:29:57,577
+♪ America, America ♪
+
+620
+00:29:57,613 --> 00:30:02,749
+♪ God shed his grace on thee ♪
+
+621
+00:30:02,784 --> 00:30:05,852
+♪ And crown thy good ♪
+
+622
+00:30:05,887 --> 00:30:09,322
+♪ With brotherhood ♪
+
+623
+00:30:09,357 --> 00:30:14,978
+♪ From sea to shining sea ♪
+
+624
+00:30:15,014 --> 00:30:17,630
+♪ From sea to shining sea ♪
+
+625
+00:30:21,069 --> 00:30:29,069
+♪ From sea to shining sea. ♪
+
+626
+00:30:32,047 --> 00:30:33,780
+(<i> applause</i>)
+
+627
+00:30:38,704 --> 00:30:43,272
+ANNOUNCER: Speaker of
+the House Mark B. Sellner.
+
+628
+00:30:44,926 --> 00:30:48,995
+SELLNER: Ladies and Gentlemen, it
+gives me great pleasure to introduce
+
+629
+00:30:49,030 --> 00:30:52,265
+the Chief Justice of the
+United States Supreme Court
+
+630
+00:30:52,301 --> 00:30:55,935
+who will administer the
+Presidential Oath of Office.
+
+631
+00:30:55,971 --> 00:30:59,739
+The Honorable Evelyn Baker Lang.
+
+632
+00:31:02,611 --> 00:31:05,912
+CHIEF JUSTICE: Please raise
+your hand, and repeat after me.
+
+633
+00:31:05,948 --> 00:31:09,432
+I do solemnly swear
+that I will faithfully execute
+
+634
+00:31:09,467 --> 00:31:12,285
+the Office of the President
+of the United States.
+
+635
+00:31:12,321 --> 00:31:14,570
+SANTOS: I do
+solemnly swear that I will
+
+636
+00:31:14,606 --> 00:31:17,557
+faithfully execute the
+Office of the President
+
+637
+00:31:17,593 --> 00:31:18,675
+of the United States.
+
+638
+00:31:18,711 --> 00:31:20,955
+And will, to the
+best of my ability...
+
+639
+00:31:20,979 --> 00:31:23,396
+And will, to the
+best of my ability...
+
+640
+00:31:23,432 --> 00:31:25,426
+preserve, protect and defend
+
+641
+00:31:25,450 --> 00:31:28,118
+the Constitution of
+the United States.
+
+642
+00:31:28,153 --> 00:31:31,455
+Preserve, protect and defend
+
+643
+00:31:31,490 --> 00:31:33,624
+the Constitution of
+the United States.
+
+644
+00:31:33,659 --> 00:31:35,759
+So help me God.
+
+645
+00:31:35,794 --> 00:31:37,761
+So help me God.
+
+646
+00:31:37,796 --> 00:31:40,413
+(<i> applause</i>)
+
+647
+00:31:42,551 --> 00:31:44,568
+(<i> band plays
+"Hail to the Chief"</i>)
+
+648
+00:32:02,387 --> 00:32:03,387
+(<i> turns off TV</i>)
+
+649
+00:32:11,513 --> 00:32:12,590
+Afternoon, ma'am.
+Afternoon, sir.
+
+650
+00:32:12,614 --> 00:32:13,991
+SAM: Hey, Darrell.
+Good to see you, sir.
+
+651
+00:32:14,015 --> 00:32:15,982
+Good to see you, too.
+
+652
+00:32:24,359 --> 00:32:26,426
+Home, sweet home.
+
+653
+00:32:31,500 --> 00:32:33,110
+DEBBIE: <i>Your most
+important job is keeping track</i>
+
+654
+00:32:33,134 --> 00:32:35,179
+<i>of who's going in and
+out of the Oval Office.</i>
+
+655
+00:32:35,203 --> 00:32:37,804
+The first thing you'll
+need to do is establish
+
+656
+00:32:37,839 --> 00:32:39,550
+who'll have walk-in privileges.
+
+657
+00:32:39,574 --> 00:32:41,319
+Usually it's just the First Lady
+
+658
+00:32:41,343 --> 00:32:42,842
+and the Chief of Staff.
+
+659
+00:32:42,877 --> 00:32:44,911
+At some point, the
+President is going to ask you
+
+660
+00:32:44,946 --> 00:32:47,614
+to take away his
+wife's walk-in privileges.
+
+661
+00:32:47,649 --> 00:32:49,749
+Don't do it, no matter
+how much he begs.
+
+662
+00:32:49,784 --> 00:32:53,035
+You have the right to attend
+the morning staff meeting.
+
+663
+00:32:53,071 --> 00:32:55,839
+I never went because
+the senior staff was already
+
+664
+00:32:55,874 --> 00:32:59,976
+appropriately intimidated by
+my stern visage and dry wit.
+
+665
+00:33:00,011 --> 00:33:01,989
+But you're young,
+you have a baby face.
+
+666
+00:33:02,013 --> 00:33:05,598
+They are going to try to walk
+all over you; you should go.
+
+667
+00:33:14,025 --> 00:33:16,659
+Your desk sits right
+outside this door.
+
+668
+00:33:16,695 --> 00:33:18,094
+You prepare his schedule,
+
+669
+00:33:18,129 --> 00:33:20,830
+you decide who goes
+in and who doesn't.
+
+670
+00:33:20,866 --> 00:33:24,066
+Your most frequent
+response to any question
+
+671
+00:33:24,102 --> 00:33:27,336
+will be "no."
+
+672
+00:33:27,372 --> 00:33:30,373
+Say it with empathy
+and you'll be fine.
+
+673
+00:33:40,485 --> 00:33:41,451
+Where's Mrs. Bartlet?
+
+674
+00:33:41,486 --> 00:33:43,486
+Already inside the car, sir.
+
+675
+00:33:45,490 --> 00:33:46,890
+Nice speech.
+
+676
+00:33:46,925 --> 00:33:47,874
+No JFK.
+
+677
+00:33:47,910 --> 00:33:50,176
+No, but you've got time.
+
+678
+00:33:50,212 --> 00:33:53,579
+I left something
+for you on the desk.
+
+679
+00:33:53,615 --> 00:33:54,775
+Just some random thoughts.
+
+680
+00:33:54,799 --> 00:33:56,761
+I look forward to them, sir.
+
+681
+00:33:56,785 --> 00:34:00,020
+Make me proud, Mr. President.
+
+682
+00:34:00,055 --> 00:34:02,939
+I'll do my best, Mr. President.
+
+683
+00:34:22,477 --> 00:34:27,179
+(<i> sirens wailing</i>)
+
+684
+00:34:33,071 --> 00:34:34,682
+ABBEY: What in the world
+
+685
+00:34:34,706 --> 00:34:39,375
+was he trying to prove by
+not wearing an overcoat?
+
+686
+00:34:39,411 --> 00:34:41,828
+Youth and vigor.
+
+687
+00:34:41,863 --> 00:34:43,496
+He looked like a leader.
+
+688
+00:34:43,532 --> 00:34:45,209
+He looked like a lunatic.
+
+689
+00:34:45,233 --> 00:34:49,002
+A young and vigorous lunatic.
+
+690
+00:34:51,023 --> 00:34:52,722
+Jed?
+
+691
+00:34:52,758 --> 00:34:55,692
+Hmm?
+
+692
+00:34:55,727 --> 00:34:57,007
+You made it.
+
+693
+00:34:59,764 --> 00:35:01,547
+You're still here.
+
+694
+00:35:01,583 --> 00:35:04,668
+Yeah.
+
+695
+00:35:04,703 --> 00:35:06,736
+I'm still here.
+
+696
+00:35:10,525 --> 00:35:12,203
+REPORTER: As they
+head into the final block
+
+697
+00:35:12,227 --> 00:35:13,571
+right here on
+Pennsylvania Avenue,
+
+698
+00:35:13,595 --> 00:35:14,705
+President and First Lady...
+
+699
+00:35:14,729 --> 00:35:16,146
+BRAM: This 137B?
+
+700
+00:35:16,181 --> 00:35:17,130
+Yeah.
+
+701
+00:35:17,166 --> 00:35:19,832
+This going to be you?
+
+702
+00:35:19,868 --> 00:35:21,301
+Looks like it.
+
+703
+00:35:21,336 --> 00:35:22,302
+Charlie Young.
+
+704
+00:35:22,337 --> 00:35:23,337
+Bram Howard.
+
+705
+00:35:23,372 --> 00:35:24,372
+Parade almost over?
+
+706
+00:35:24,406 --> 00:35:25,686
+Yep.
+
+707
+00:35:31,163 --> 00:35:34,064
+Watch out for the thermostat.
+
+708
+00:35:34,099 --> 00:35:35,431
+Hair one way or the other
+
+709
+00:35:35,466 --> 00:35:38,150
+is the difference between
+convection oven and meat locker.
+
+710
+00:35:44,625 --> 00:35:45,591
+Have fun.
+
+711
+00:35:45,627 --> 00:35:47,343
+You bet.
+
+712
+00:36:01,259 --> 00:36:04,261
+You want to go see a movie?
+
+713
+00:36:04,296 --> 00:36:06,296
+It's 2:00 in the afternoon.
+
+714
+00:36:06,331 --> 00:36:08,409
+You got anything better to do?
+
+715
+00:36:08,433 --> 00:36:10,267
+No, I guess we don't.
+
+716
+00:36:10,302 --> 00:36:12,068
+Is there even a movie
+theater around here?
+
+717
+00:36:12,104 --> 00:36:14,687
+I have no idea.
+
+718
+00:36:51,260 --> 00:36:52,508
+STEVE: You look good up there.
+
+719
+00:36:54,246 --> 00:36:57,247
+Thanks.
+
+720
+00:36:57,282 --> 00:36:58,547
+We missed you.
+
+721
+00:36:58,583 --> 00:37:01,567
+Can't say the feeling's mutual.
+
+722
+00:37:01,603 --> 00:37:03,363
+President Bartlet pardoned
+Toby Ziegler today. Any comment?
+
+723
+00:37:03,387 --> 00:37:04,737
+Nope.
+
+724
+00:37:04,773 --> 00:37:06,005
+You have an opinion?
+
+725
+00:37:06,041 --> 00:37:07,790
+Sure, I do.
+
+726
+00:37:09,777 --> 00:37:13,479
+Unfortunately, the suite
+that Mrs. Bartlet was using
+
+727
+00:37:13,515 --> 00:37:16,182
+is going to be torn up
+for most of the next year
+
+728
+00:37:16,218 --> 00:37:20,653
+while we restore the
+marble and original moldings.
+
+729
+00:37:20,688 --> 00:37:22,289
+We're hoping that this suite
+
+730
+00:37:22,324 --> 00:37:25,358
+will meet with Mrs.
+Santos' approval.
+
+731
+00:37:28,363 --> 00:37:29,896
+Nice.
+
+732
+00:37:29,932 --> 00:37:32,277
+Ms. Schott, the office for the
+First Lady's Press Secretary
+
+733
+00:37:32,301 --> 00:37:33,266
+would be over here.
+
+734
+00:37:33,301 --> 00:37:34,951
+Great. Thanks.
+
+735
+00:37:34,986 --> 00:37:36,836
+Ms. Moss, if you'll follow me.
+
+736
+00:37:43,144 --> 00:37:45,089
+We're hoping this will
+meet with your approval.
+
+737
+00:37:45,113 --> 00:37:46,413
+Oh, it's lovely.
+
+738
+00:37:46,448 --> 00:37:49,015
+I'm sure the First Lady
+will be very happy here.
+
+739
+00:37:49,050 --> 00:37:50,060
+Oh, no, I'm sorry.
+
+740
+00:37:50,084 --> 00:37:52,096
+The First Lady's
+office is next door.
+
+741
+00:37:52,120 --> 00:37:56,055
+As her Chief of Staff,
+this would be your office.
+
+742
+00:37:56,090 --> 00:37:58,141
+Yes. This will be fine.
+
+743
+00:38:49,711 --> 00:38:52,479
+Shall we get started
+with the Joint Chiefs, sir?
+
+744
+00:38:52,514 --> 00:38:53,629
+Yes, thank you.
+
+745
+00:39:20,141 --> 00:39:21,941
+(<i> gate buzzes</i>)
+
+746
+00:39:29,301 --> 00:39:31,084
+Excuse me.
+
+747
+00:39:31,119 --> 00:39:32,484
+Excuse me.
+
+748
+00:39:32,520 --> 00:39:33,530
+Do you work in there?
+
+749
+00:39:33,554 --> 00:39:34,654
+I'm sorry, what?
+
+750
+00:39:34,689 --> 00:39:36,284
+We thought we saw
+you come out the gate.
+
+751
+00:39:36,308 --> 00:39:37,351
+You work at the White House?
+
+752
+00:39:37,375 --> 00:39:40,677
+No.
+
+753
+00:39:40,712 --> 00:39:42,595
+No, I'm sorry, I don't.
+
+754
+00:39:42,630 --> 00:39:43,791
+Must be something, huh?
+
+755
+00:39:43,815 --> 00:39:46,816
+Yeah, something.
+
+756
+00:40:07,789 --> 00:40:09,633
+SANTOS: General, Admirals,
+I'm sure we'll talk about this
+
+757
+00:40:09,657 --> 00:40:12,625
+more in detail tomorrow, but
+I do appreciate your candor.
+
+758
+00:40:12,660 --> 00:40:14,260
+Thank you, sir. Thank
+you, Mr. President.
+
+759
+00:40:17,265 --> 00:40:19,109
+They want 10,000 more
+troops in Kazakhstan
+
+760
+00:40:19,133 --> 00:40:22,034
+on the ground for
+logistical support.
+
+761
+00:40:22,069 --> 00:40:23,681
+Public opinion
+is already divided
+
+762
+00:40:23,705 --> 00:40:25,166
+over our mission
+in Central Asia.
+
+763
+00:40:25,190 --> 00:40:26,450
+Do you really want to be putting
+
+764
+00:40:26,474 --> 00:40:28,152
+more troops on the
+ground in your first week?
+
+765
+00:40:28,176 --> 00:40:29,775
+We may not have a choice.
+
+766
+00:40:31,229 --> 00:40:32,861
+What?
+
+767
+00:40:32,897 --> 00:40:34,247
+You look good back there.
+
+768
+00:40:35,400 --> 00:40:37,044
+RONNA: Excuse me,
+sir. It's almost 6:00.
+
+769
+00:40:37,068 --> 00:40:38,051
+The First Lady called
+
+770
+00:40:38,086 --> 00:40:39,413
+to remind you to head
+back to the residence
+
+771
+00:40:39,437 --> 00:40:40,514
+to change for the
+Inaugural Balls.
+
+772
+00:40:40,538 --> 00:40:41,504
+Thanks, Ronna.
+
+773
+00:40:41,539 --> 00:40:43,099
+Tell her I'll be up
+there in 15 minutes.
+
+774
+00:40:43,674 --> 00:40:44,824
+Thank you, Mr. President.
+
+775
+00:40:44,859 --> 00:40:48,179
+BRAM: Thank you, Mr. President.
+
+776
+00:40:49,331 --> 00:40:50,963
+What's next?
+
+777
+00:40:52,501 --> 00:40:56,702
+Sir, the Senate Democrats
+want you to move fast
+
+778
+00:40:56,738 --> 00:40:58,338
+on the education bill.
+
+779
+00:40:58,373 --> 00:41:00,773
+Then we can move
+on to the tough stuff...
+
+780
+00:41:00,808 --> 00:41:03,142
+Immigration, energy policy...
+
+781
+00:41:08,048 --> 00:41:10,283
+BARTLET: Come in.
+
+782
+00:41:10,318 --> 00:41:11,928
+Colonel Gantry
+says we'll be landing
+
+783
+00:41:11,952 --> 00:41:13,597
+in New Hampshire
+in 20 minutes, sir.
+
+784
+00:41:13,621 --> 00:41:14,654
+Thank you.
+
+785
+00:42:09,444 --> 00:42:12,795
+What are you thinking about?
+
+786
+00:42:16,734 --> 00:42:18,734
+Tomorrow.
+
